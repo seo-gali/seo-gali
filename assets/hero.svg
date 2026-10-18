@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="340" viewBox="0 0 1440 340">
+<rect x="2" y="2" width="1436" height="336" rx="20" fill="#E1E9DC" stroke="#BCCBBE" stroke-width="3"/>
+<path d="M1030 2V338" stroke="#94AAA0" stroke-width="3" stroke-dasharray="7 9"/>
+<circle cx="1030" cy="2" r="12" fill="#F5F0E4"/><circle cx="1030" cy="338" r="12" fill="#F5F0E4"/>
+<text x="55" y="66" font-family="DejaVu Sans,sans-serif" font-size="22" font-weight="700" letter-spacing="3" fill="#176F68">PORTFOLIO  /  BACKEND ENGINEERING</text>
+<text x="54" y="166" font-family="DejaVu Sans,sans-serif" font-size="82" font-weight="700" fill="#123B43">SEO GALI</text>
+<rect x="57" y="185" width="260" height="5" rx="2" fill="#C98558"/>
+<text x="56" y="241" font-family="DejaVu Sans,sans-serif" font-size="31" font-weight="700" fill="#123B43">Backend · DevOps · AI &amp; Agent</text>
+<text x="56" y="292" font-family="Noto Sans CJK KR,sans-serif" font-size="23" fill="#4D6869">시스템 설계 · 구현 · 검증 중심의 개발 기록</text>
+<text x="1073" y="69" font-family="DejaVu Sans,sans-serif" font-size="19" font-weight="700" fill="#176F68">PROFILE PASS</text>
+<text x="1073" y="125" font-family="DejaVu Sans,sans-serif" font-size="18" fill="#617A75">SECTIONS</text>
+<text x="1073" y="173" font-family="DejaVu Sans,sans-serif" font-size="27" font-weight="700" fill="#123B43">CURRENT</text>
+<text x="1073" y="213" font-family="DejaVu Sans,sans-serif" font-size="27" font-weight="700" fill="#123B43">FEATURED</text>
+<text x="1073" y="253" font-family="DejaVu Sans,sans-serif" font-size="20" fill="#617A75">ARCHIVE · STACK</text>
+</svg>

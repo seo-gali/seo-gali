@@ -25,22 +25,22 @@
 개별 프로젝트의 구현·검증 기록은 Notion에서 확인할 수 있습니다.
 
 <p align="center">
-  <a href="https://app.notion.com/p/galijung/HourBoard-3eedbfd1e0fb80e7a600f051e95e200f"><img src="./assets/featured-01.png" alt="HourBoard" width="48%" /></a>
-  <a href="https://app.notion.com/p/galijung/SpendGuard-3e6dbfd1e0fb80be830bfbdab1baeda6"><img src="./assets/featured-02.png" alt="SpendGuard" width="48%" /></a>
+  <a href="https://galijung.notion.site/HourBoard-3eedbfd1e0fb80e7a600f051e95e200f"><img src="./assets/featured-01.png" alt="HourBoard" width="48%" /></a>
+  <a href="https://galijung.notion.site/SpendGuard-3e6dbfd1e0fb80be830bfbdab1baeda6"><img src="./assets/featured-02.png" alt="SpendGuard" width="48%" /></a>
   <br />
-  <a href="https://app.notion.com/p/galijung/Pixel-Jukebox-3dfdbfd1e0fb80f1809deb051aefe1bb"><img src="./assets/featured-03.png" alt="Pixel Jukebox" width="48%" /></a>
-  <a href="https://app.notion.com/p/galijung/MCP-AI-Agent-LAB-3c7dbfd1e0fb8043ab43f291758989eb"><img src="./assets/featured-04.png" alt="MCP &amp; AI Agent LAB" width="48%" /></a>
+  <a href="https://galijung.notion.site/Pixel-Jukebox-3dfdbfd1e0fb80f1809deb051aefe1bb"><img src="./assets/featured-03.png" alt="Pixel Jukebox" width="48%" /></a>
+  <a href="https://galijung.notion.site/MCP-AI-Agent-LAB-3c7dbfd1e0fb8043ab43f291758989eb"><img src="./assets/featured-04.png" alt="MCP &amp; AI Agent LAB" width="48%" /></a>
   <br />
-  <a href="https://app.notion.com/p/galijung/Spring-AI-RAG-Lab-3b7dbfd1e0fb80e99b99ff023c17bc3d"><img src="./assets/featured-05.png" alt="Spring AI RAG Lab" width="48%" /></a>
-  <a href="https://app.notion.com/p/galijung/Web-Linux-Desktop-3a5dbfd1e0fb802cb1b3e925c2bb24de"><img src="./assets/featured-06.png" alt="Web Linux Desktop" width="48%" /></a>
+  <a href="https://galijung.notion.site/Spring-AI-RAG-Lab-3b7dbfd1e0fb80e99b99ff023c17bc3d"><img src="./assets/featured-05.png" alt="Spring AI RAG Lab" width="48%" /></a>
+  <a href="https://galijung.notion.site/Web-Linux-Desktop-3a5dbfd1e0fb802cb1b3e925c2bb24de"><img src="./assets/featured-06.png" alt="Web Linux Desktop" width="48%" /></a>
   <br />
-  <a href="https://app.notion.com/p/galijung/OfficeGuard-Lab-38edbfd1e0fb80d58f0cd262c83ebb52"><img src="./assets/featured-07.png" alt="OfficeGuard Lab" width="48%" /></a>
-  <a href="https://app.notion.com/p/galijung/ShardStore-S3-37cdbfd1e0fb80e8b439c0c564d31bfb"><img src="./assets/featured-08.png" alt="ShardStore S3" width="48%" /></a>
+  <a href="https://galijung.notion.site/OfficeGuard-Lab-38edbfd1e0fb80d58f0cd262c83ebb52"><img src="./assets/featured-07.png" alt="OfficeGuard Lab" width="48%" /></a>
+  <a href="https://galijung.notion.site/ShardStore-S3-37cdbfd1e0fb80e8b439c0c564d31bfb"><img src="./assets/featured-08.png" alt="ShardStore S3" width="48%" /></a>
   <br />
-  <a href="https://app.notion.com/p/galijung/Mini-PC-Self-Hosted-DevOps-36adbfd1e0fb8012b671c27e6b45ae5b"><img src="./assets/featured-09.png" alt="Mini PC Self-Hosted DevOps" width="48%" /></a>
-  <a href="https://app.notion.com/p/galijung/Circuit-Breaker-33cdbfd1e0fb817492dff0809c5b33c2"><img src="./assets/featured-10.png" alt="Circuit Breaker" width="48%" /></a>
+  <a href="https://galijung.notion.site/Mini-PC-Self-Hosted-DevOps-36adbfd1e0fb8012b671c27e6b45ae5b"><img src="./assets/featured-09.png" alt="Mini PC Self-Hosted DevOps" width="48%" /></a>
+  <a href="https://galijung.notion.site/Circuit-Breaker-33cdbfd1e0fb817492dff0809c5b33c2"><img src="./assets/featured-10.png" alt="Circuit Breaker" width="48%" /></a>
   <br />
-  <a href="https://app.notion.com/p/galijung/Server-Monitor-33cdbfd1e0fb81f89b32e8cdf73f59e5"><img src="./assets/featured-11.png" alt="Server Monitor" width="48%" /></a>
+  <a href="https://galijung.notion.site/Server-Monitor-33cdbfd1e0fb81f89b32e8cdf73f59e5"><img src="./assets/featured-11.png" alt="Server Monitor" width="48%" /></a>
 </p>
 
 ## Portfolio Archive
@@ -158,5 +158,5 @@
 <div align="center">
   <a href="https://www.instagram.com/seo_haligali/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="INSTAGRAM" /></a>
   <a href="https://halligalli0.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&amp;logo=tistory&amp;logoColor=white" alt="Tistory" /></a>
-  <a href="https://www.notion.so/galijung/HeeBook-585550ea881b4f2eb8f110b0b27af2be"><img src="https://img.shields.io/badge/Notion-FFE033?style=flat-square&amp;logo=readdotcv&amp;logoColor=white" alt="Notion" /></a>
+  <a href="https://galijung.notion.site/HeeBook-585550ea881b4f2eb8f110b0b27af2be"><img src="https://img.shields.io/badge/Notion-FFE033?style=flat-square&amp;logo=readdotcv&amp;logoColor=white" alt="Notion" /></a>
 </div>

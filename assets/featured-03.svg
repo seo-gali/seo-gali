@@ -1,16 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260">
-<rect x="2" y="2" width="716" height="256" rx="18" fill="#FFFDF7" stroke="#C6CEBF" stroke-width="2"/>
-<path d="M555 2V258" stroke="#AEB9A8" stroke-width="2" stroke-dasharray="5 7"/>
-<circle cx="555" cy="2" r="9" fill="#F5F0E4"/><circle cx="555" cy="258" r="9" fill="#F5F0E4"/>
-<rect x="24" y="24" width="94" height="27" rx="6" fill="#B46D45"/>
-<text x="71" y="43" font-family="DejaVu Sans,sans-serif" font-size="13" font-weight="700" fill="white" text-anchor="middle">PROJECT</text>
-<text x="532" y="43" font-family="DejaVu Sans,sans-serif" font-size="15" fill="#73877E" text-anchor="end">03</text>
-<text x="28" y="103" font-family="Noto Sans CJK KR,DejaVu Sans,sans-serif" font-size="33" font-weight="700" fill="#123B43">Pixel Jukebox</text>
-<text x="28" y="149" font-family="Noto Sans CJK KR,DejaVu Sans,sans-serif" font-size="19" fill="#526D70">음악 탐색 및 추천</text>
-<line x1="28" y1="191" x2="526" y2="191" stroke="#D8DFD5"/>
-<text x="28" y="222" font-family="DejaVu Sans,sans-serif" font-size="16" fill="#B46D45" font-weight="700">TypeScript · OpenAI</text>
-<text x="583" y="56" font-family="DejaVu Sans,sans-serif" font-size="14" font-weight="700" fill="#B46D45">NOTION</text>
-<text x="582" y="137" font-family="DejaVu Sans,sans-serif" font-size="28" font-weight="700" fill="#123B43">OPEN</text>
-<path d="M585 179H674m-14-12 14 12-14 12" fill="none" stroke="#B46D45" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="583" y="226" font-family="DejaVu Sans,sans-serif" font-size="12" fill="#778980">PROJECT LINK</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="752" height="312" viewBox="0 0 752 312">
+  <title>Pixel Jukebox</title>
+  <desc>음악 탐색 및 추천 — TypeScript · OpenAI — Notion</desc>
+  <g transform="translate(16 16)">
+  <rect x="1" y="1" width="718" height="278" rx="16" fill="#F5F0E4"/>
+  <path d="M2 200H718V263Q718 278 703 278H17Q2 278 2 263Z" fill="#DCE3D2"/>
+  <rect x="1" y="1" width="718" height="278" rx="16" fill="none" stroke="#BAC7B9" stroke-width="2"/>
+  <path d="M36 30H76" stroke="#C98558" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Segoe UI,Malgun Gothic,Arial,sans-serif">
+    <text x="36" y="94" font-size="46" font-weight="700" fill="#123C43">Pixel Jukebox</text>
+    <text x="36" y="153" font-size="30" fill="#3E5E60">음악 탐색 및 추천</text>
+    <path d="M24 200H696" stroke="#A3B5A7" stroke-width="2" stroke-dasharray="5 7"/>
+    <text x="36" y="249" font-size="26" font-weight="600" fill="#355953">TypeScript · OpenAI</text>
+    <text x="648" y="249" font-size="26" font-weight="700" fill="#123C43" text-anchor="end">Notion</text>
+  </g>
+  <path d="M664 245L682 227M668 227H682V241" fill="none" stroke="#176F68" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
 </svg>

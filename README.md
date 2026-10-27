@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/hero.png" alt="SEO GALI — Backend, DevOps, AI & Agent" width="1200" />
+  <a href="https://github.com/seo-gali/playground"><img src="./assets/hero.png" alt="SEO GALI — Backend, DevOps, AI & Agent" width="1200" /></a>
 
 </div>
 
@@ -16,6 +16,8 @@
   <br />
   <a href="https://github.com/seo-gali/boiler-ops-agent"><img src="./assets/current-03.png" alt="BoilerOps Agent" width="48%" /></a>
   <a href="https://github.com/seo-gali/qa-viewer"><img src="./assets/current-04.png" alt="QA Viewer" width="48%" /></a>
+  <br />
+  <a href="https://github.com/seo-gali/marketing-ai-agent"><img src="./assets/current-05.png" alt="Marketing AI Agent" width="48%" /></a>
 </p>
 
 ## Featured Projects
